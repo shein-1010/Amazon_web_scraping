@@ -1,6 +1,4 @@
-Here’s a well-structured **README** description for your GitHub repository:  
 
----
 
 # 🛒 Amazon & Flipkart Web Scraping  
 
@@ -51,4 +49,3 @@ This project is for **educational purposes only**. Scraping e-commerce websites 
 
 ---
 
-Let me know if you want modifications! 🚀
